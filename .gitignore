@@ -1,0 +1,6 @@
+.vs/
+Release/
+bin2coff/bin/
+bin2coff/obj/
+bin2coff/bin2coff.csproj.user
+bin2coff/Properties/PublishProfiles/*.user
