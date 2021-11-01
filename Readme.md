@@ -1,6 +1,6 @@
 # bin2coff
 
-**bin2coff** is a tool to COFF object files containing binary data, which is useful e.g. to embed a binary file in a C/C++ project.
+**bin2coff** is a tool to create COFF object files containing binary data, which is useful e.g. to embed a binary file in a C/C++ project.
 
 The code on which this project is based was originally created by [Pete Batard](https://pete.akeo.ie/2011/11/bin2coff.html) as part of the _libwdi_ project and modified by Artifex Software Inc. and included in the MuPDF source code.
 
